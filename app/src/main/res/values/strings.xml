@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB אלחוטי</string>
+    <string name="title">הפעלת ניפוי באגים אלחוטי</string>
+    <string name="status_disabled">מצב: כבוי</string>
+    <string name="status_enabled">מצב: פעיל</string>
+    <string name="btn_enable">הפעל ADB דרך WiFi</string>
+    <string name="btn_disable">כבה ADB דרך WiFi</string>
+    <string name="ip_label">כתובת IP:</string>
+    <string name="port_label">פורט:</string>
+    <string name="connect_hint">הרץ במחשב: adb connect %1$s:%2$s</string>
+    <string name="root_denied">גישת root נדחתה או שאינה זמינה במכשיר זה</string>
+    <string name="no_wifi">אין חיבור WiFi פעיל</string>
+    <string name="copy_command">העתק פקודה</string>
+    <string name="copied">הפקודה הועתקה ללוח</string>
+</resources>
